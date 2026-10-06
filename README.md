@@ -16,6 +16,5 @@ Main digital marketing aur AI ko saath mein seekh rahi hoon. Mera focus hai AI t
 - AI Chatbot aur AI Tools ka use
 - AI se content, images aur video banana
 - Marketing automation mein AI ka use
-
-### 🔗 Connect with Me
-[LinkedIn par connect karo](https://www.linkedin.com/in/YOUR-PROFILE-NAME)
+### link
+www.linkedin.com/in/divya-sharma-5324b1429
